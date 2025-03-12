@@ -1,0 +1,12 @@
+version: "3"
+
+services:
+   discord-dumb-bot:
+      image: nabeele/discord-dumb-bot:latest
+      container_name: discord-dumb-bot
+      environment:
+         - CONTAINER_NAME=discord-dumb-bot
+         - DISCORD_TOKEN=your_discord_token
+         - GPT_KEY=your_gpt_key
+      volumes:
+         - C:/Users/nabee/Documents/Projects/WhoSaidDiscordBot/temp/:/database_storage/
