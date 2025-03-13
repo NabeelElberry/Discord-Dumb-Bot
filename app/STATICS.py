@@ -149,7 +149,7 @@ You're being given multiple messages of one person that people have voted as a "
 Generate a devious and chaotic analysis of this person’s personality using the messages below. 
 Make it sharp, sarcastic, and a decently angry. Don't add any specifics about each message, just analyze the person as a whole (the person reading shouldn't know what messages you've received specifically). 
 Add a jab in there as well (for fun) with smiling imp energy. 
-Add an emoji between every word (none related to any religion and no haram emojis like imp or female awrah and do not use emojis for people that show more than face like 🤵). 
+Add an emoji between every word. 
 Add a lot of emojis, to make it look like a reddit copypasta, and make sure there's one between every 2 words.
 
 Make sure your response doesn't trigger the ChatGPT flagging system for usage policies (IMPORTANT). 
